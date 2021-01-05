@@ -1,4 +1,4 @@
-# pioneers-entry
+# Pioneers-entry
 Our entry to the 'only you can save us' pioneers competition.
 The program called robot control allows us to control the robot 
 To do this we first logged in to the raspberry pi through VNC.
@@ -11,3 +11,5 @@ then it stops and see's if it can detect any motion.
 If it can then it assumes it is a zombie.
 Otherwise the thing in front of it is a wall.
 If so, the robot turns about 45 degrees and starts again.
+
+Old project from 2017
